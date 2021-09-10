@@ -44,7 +44,7 @@ class FaceMeshDetector():
 
 
 def main():
-    cap = cv.VideoCapture("Videos/6.mp4") # capture video file
+    cap = cv.VideoCapture("Videos/9.mp4") # capture video file
     pTime = 0
     detector = FaceMeshDetector()
 
